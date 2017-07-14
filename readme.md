@@ -34,7 +34,7 @@ In this repository you'll find all the articles I wrote about all the Weekly Ner
 ![](https://github.com/rvdpas/weekly-nerd/blob/master/images/niels-leenheer.jpg)
 
 ### Eva-Lotta Lamm (03-05-2017)  
-![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+Missed this one.
 
 ### Nick de Bruijn (16-05-2017)  
 ![](https://github.com/rvdpas/weekly-nerd/blob/master/images/nick-lifely.jpg)
@@ -43,5 +43,5 @@ In this repository you'll find all the articles I wrote about all the Weekly Ner
 ![](https://github.com/rvdpas/weekly-nerd/blob/master/images/guido-bouwman-q42.jpg)
 
 ### Léonie Watson (31-05-2017)  
-![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+Missed this one.
 
